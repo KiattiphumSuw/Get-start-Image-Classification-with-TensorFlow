@@ -8,7 +8,7 @@ build CNN notebook: https://www.kaggle.com/code/kiattiphumsuwanarsa/image-classi
 ### table of context in this notebook are
 * load data with ImageDataGenerator
 * build CNN where activation function last is sigmoid
-* sloving overfitting with Data augmentation
+* sloving overfitting with Data augmentation and Dropout
 
 ## Second session: Transfer learning
 Transfer learning notebook: https://www.kaggle.com/code/kiattiphumsuwanarsa/transfer-learning-classify-dog-cat
